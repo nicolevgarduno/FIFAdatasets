@@ -1,5 +1,5 @@
 # Analyzing FIFA player statistics
-The purpose of this project was to conduct multiple manipulations to the data and ultimately build a machine learning model that could predict the ovrall value for each FIFA player based on the skillsets.
+The purpose of this project was to conduct multiple manipulations to the data and ultimately build a machine learning model that could predict the overall value for each FIFA player based on the skillsets.
 This project included uses of data cleaning, data engineering, data encoding, and construction of a pipeline. Along with these skills, the ML model was constructed in SparkML and Tensorflow.
 
 ## Part 1
